@@ -1,7 +1,7 @@
 {
   "name": "uber-seal-api",
   "version": "1.0.0",
-  "description": "![usl](https://user-images.githubusercontent.com/19824877/74358748-9a210380-4d87-11ea-9e88-0b48218551eb.png)",
+  "description": "API for Uber Seal",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
